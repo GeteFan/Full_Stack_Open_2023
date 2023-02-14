@@ -8,10 +8,5 @@
     server-->>browser: {"message":"note created"}
     deactivate server     
 
-<<<<<<< HEAD
-    The SPA version of the app does not traditionally send the form data - instead uses the JavaScript code it fetched from the server.
+    Note right of browser: The SPA version of the app does not traditionally send the form data - but instead uses the JavaScript code it fetched from the server.
 ```
-=======
-    The SPA version of the app does not traditionally send the form data - but instead uses the JavaScript code it fetched from the server.
-```
->>>>>>> e4563dc75fdc1678c582a8362e4966b76f0494f2
